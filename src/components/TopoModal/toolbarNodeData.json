@@ -1,0 +1,42 @@
+[
+    {
+        "type": "SB",
+        "icon": "require('../../../static/img/svg/SB-0.png')",
+        "width": 140,
+        "height": 80,
+        "num": 1,
+        "classType":"T1"
+    },
+    {
+        "type":"FWQ",
+        "icon": "require('../../../static/img/svg/FWQ-0.png')",
+        "width": 50,
+        "height": 50,
+        "num": 1,
+        "classType":"T2"
+    },
+    {
+        "type":"JHJ",
+        "icon":"require('../../../static/img/svg/JHJ-0.png')",
+        "width": 140,
+        "height": 80,
+        "num": 1,
+        "classType":"T1"
+    },
+    {
+        "type":"IP",
+        "icon": "require('../../../static/img/svg/IP-0.png')",
+        "width": 140,
+        "height": 80,
+        "num": 1,
+        "classType":"T1"
+    },
+    {
+        "type":"YSQ",
+        "icon": "require('../../../static/img/svg/YSQ-0.png')",
+        "width": 115,
+        "height": 60,
+        "num": 1,
+        "classType":"T1"
+    }
+]
